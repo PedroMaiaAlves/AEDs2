@@ -88,5 +88,5 @@ public class RevisaoRecursividade {
         return contador + contaElementos(vetor, i - 1, num);
     }
 }
-// 0, 1, 2, 0
+
 
